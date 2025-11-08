@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Research Project</title>
+  <style>
+    body { margin:0; font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; background:#f7f7f8; }
+    header { background:#0b6efd; color:white; padding:18px; text-align:center; box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
+    main { padding: 18px; max-width: 1100px; margin: 20px auto; }
+    .doc-frame { width:100%; height:80vh; border: 1px solid #ddd; border-radius:6px; overflow:hidden; }
+    @media (max-width:700px){ .doc-frame { height:70vh; } }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Research Project</h1>
+    <p style="margin:0.2rem 0 0.6rem 0; opacity:0.92">Embedded Google Doc</p>
+  </header>
+
+  <main>
+    <!-- 
+WEB3 ADOPTION IN THE "POST-TRUST ERA"
+
+
+
+
+BY 
+
+AMIT SHEFFER HOD
+
+
+
+
+
+MATTERMORE RESEARCH PROJECT
+
+
+
+
+
+
+
+
+Introduction
+
+Almost every huge company in the world operates with Web2 technologies. However, Web2 technologies could be harmful to consumers and do not help secure themselves, rather, it secures the company. Web3 technology essentially makes the website/company transparent to the consumer while the consumer is not transparent, Web2 does the opposite. In the "Post-Trust Era," how do Web3 technologies create trust with consumers, enhance brand loyalty, and achieve sustainable growth in a decentralized digital landscape?                                                                                                                
+
+Web3 technologies must be strategically employed to rebuild trust between brands and consumers. Web3 strategies must drive brand adoption and foster long-term customer loyalty in the "Post-Trust Era.” Successful Web3 brands must navigate the challenges of this new digital society.
+
+The shift from Web2 to Web3 technologies in the post-trust era is important due to the fact that the digital world has declining trust in centralized institutions and data handling practices. Web3 technologies, like blockchain, offer decentralized solutions that prioritize transparency, security, and user empowerment.  Brands that strategically leverage Web3 can address trust deficits, foster engagement, and gain a competitive edge. Centralized companies are losing the trust they once had due to their centralization. However, people won’t switch to web3 due to its complicity or because it’s “too hard” to learn how to operate. Decentralized companies who use web3 are transparent and allow the consumers to be in control of their consumption. The main reasons for concerns regarding distrust in web3 technology is due to the fact that there aren’t big name brands that primarily use web3 technologies. Those concerns can be overturned if big companies like S&P 500s adopted web3 practices and produced a noticeable benefit or profit because of it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Literature Review 
+
+As of right now, February 21, 2025, there is an extremely high rate of S&P 500 companies that use Web3 and blockchain technologies. 52% of S&P 100 companies have embraced the use of Web3 and blockchain technologies and that percentage jumps up to 83% when looking at the whole S&P 500. This begs the question; why would the 500 biggest companies in the world, which make billions of dollars annually, use a new, risky technology? The answer; because Web3 technology is way more beneficial to a company than Web2 technology is and can be utilized by any given company to make immense profits. However, at this point, no S&P 500 company is only operating with Web3 technologies. This is a major gap in the research of finding out how a company would profit or lose money and customers if any were to make the switch. 
+
+
+
+
+
+
+
+
+
+
+
+Research Methodology
+
+The Currency, Relevance, Authority, Accuracy, and Purpose (CRAAP) test which was used on all sources during the research process. This test allows for peer-reviewed academic articles on blockchain, decentralization, and consumer trust; industry reports from reputable Web3 organizations and consulting firms (Ex. ConsenSys, Electric Capital); case studies of brands successfully implementing Web3 strategies; data analyses of Web3 adoption and its impact on brand metrics (Ex. customer acquisition, engagement).
+
+Data verification methods included cross-reference information from multiple sources, prioritized data from verifiable blockchain transactions and on-chain analytics, and evaluating and comparing the methodologies used in research studies and industry reports.
+
+
+
+
+
+
+
+
+
+
+
+Expected results
+
+Blockchain technology is heavily incorporated into web3 and blockchain is typically grouped with NFTs which a lot of people do not trust. A study from Security.org found that 59% of people don’t trust crypto technology which essentially means that at least 59% of people won’t be willing to adopt web3 technologies. Big companies worth billions of dollars may not find a use for this type of technology because the use of Web2 technology proves to be successful. There would be difficulty in seeing an S&P 500 company operate with only Web3 technologies due to the transparity that comes with it and the fact that it may not necessarily help the company become more profitable.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Findings
+
+Blockchain technology has proven to be beneficial to big companies. For example, Nike made over $200 million from selling NFTs which shows that there’s a big enough market to profit off of the use of blockchain technologies, thus proving the use of Web3 technologies, although not widely trusted, is highly beneficial; even for some of the most successful companies in the world. Trust is a core value. Web3's transparency and decentralization mechanisms directly address trust concerns, enabling brands to build stronger relationships with consumers. Web3 facilitates the creation of engaged communities around brands, fostering loyalty and advocacy. (Ex. NFTs) This is referred to as “Community-Driven Brand Building.” Web3 empowers users with greater control over their data and digital assets, increasing trust and engagement. This focuses on trust building and is known as “Enhanced User Ownership and Control.” Brands can leverage Web3 to communicate their commitment to transparency, security, and user empowerment. Web3 enables the creation of unique brand experiences through NFTs (Non-Fungible Token), DAOs (Decentralized Autonomous Organization),  and decentralized metaverse markets. Brands can foster deeper customer relationships through community ownership and co-creation.
+
+Brands use a decentralized platform for product development, allowing community input and ownership. Brands could utilize blockchain to track its supply chain, demonstrating ethical sourcing and product authenticity. (Ex. Nike uses NFTs to reach further audiences and profit heavily with almost $200 Million in NFT sales.) A brand could create a DAO (Decentralized Autonomous Organization) to govern its community treasury, empowering users to participate in decision-making. As of February, 2025, Web3 technology cannot build trust on a large scale because no huge company has made a complete switch to Web3 and have only done some forms of branding with blockchain technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+Overall, trust is a core value for sustaining a good company-consumer relationship and Web3 technologies are ideal for companies to gain trust among its consumers. Trust builds community and then this community fosters loyalty and advocacy. 
+
+Companies should use Web3 and blockchain technologies to create community amongst their consumers and build foundational trust which will open new opportunities for mass profits and build their brands further. 
+
+In the future, companies should use themselves as parent companies and create multiple smaller companies which are operated by Web3 technologies. These kid companies will essentially be a small extension of the original company which could be very profitable and embrace a community around the company which will also prove that companies can be operated only with Web3 technologies and still be successful and profitable.
+
+
+
+
+
+
+
+
+References
+
+https://www.cybavo.com/blog/coinbase-report-52-of-fortune-100-in-crypto-and-web3/#:~:text=52%25%20of%20Fortune%20100%20Have%20Entered%20the%20Web3%2C%20Crypto%20Chat&text=Among%20the%20surveyed%20Fortune%20500,companies%20to%20pursue%20blockchain%20technology%3F
+https://www.investopedia.com/how-to-invest-in-web-3-0-7480982#:~:text=Most%20importantly%2C%20investment%20in%20Web3,PIN%2Fpassword%20to%20your%20wallet.
+https://about.nike.com/en/newsroom/releases/nike-launches-swoosh-a-new-digital-community-and-experience
+https://www.forbes.com/sites/beccabratcher/2024/09/13/unlocking-the-future-of-consumer-trust-with-blockchain-verified-products/
+https://www.security.org/digital-security/cryptocurrency-annual-consumer-report/
+https://ethereum.org/en/web3/
+
+
+    -->
+    <iframe class="doc-frame" src="https://docs.google.com/document/d/YOUR_DOC_ID/pub?embedded=true" loading="lazy" title="Research Project"></iframe>
+
+    <p style="font-size:0.9rem; color:#666; margin-top:12px;">
+      If the document does not show, confirm you published it to the web (File → Publish to the web) or set the sharing to "Anyone with the link - Viewer".
+    </p>
+  </main>
+</body>
+</html>
+
